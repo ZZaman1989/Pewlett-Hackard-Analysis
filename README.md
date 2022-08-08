@@ -173,7 +173,7 @@ ORDER BY e.emp_no;
 3. **Summary** 
 * Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami.":
 
-    > **1)** How many roles will need to be filled as the "silver tsunami" begins to make an impact?.
+    > **1)** How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
      There are 72,458 employess who will be retiring soon. The exact list of retirees can be referenced in the unique_titles.csv. 
      
